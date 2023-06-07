@@ -2,7 +2,7 @@
 <h3 align="center">A full stack developer from Uzbekistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devtempythonist&label=Profile%20views&color=0e75b6&style=flat" alt="devtempythonist" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=botirbektursunov&label=Profile%20views&color=0e75b6&style=flat" alt="botirbektursunov" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -23,4 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=botirbektursunov&show_icons=true&locale=en" alt="botirbektursunov" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=botirbektursunov&" alt="botirbektursunov" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=botirbektursunov&" alt="botirbektursunov" /></p>
