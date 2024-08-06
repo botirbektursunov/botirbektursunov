@@ -384,7 +384,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ejMJQxEAxb2xVXlvPuvd-116" value="Employee Page" style="text;align=center;verticalAlign=middle;rounded=1;fillColor=none;strokeColor=default;fontFamily=Times New Roman;fontStyle=1;fontSize=18;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-483" y="79" width="140" height="30" as="geometry" />
+          <mxGeometry x="-414" y="82" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ejMJQxEAxb2xVXlvPuvd-117" value="&lt;div style=&quot;text-align: left;&quot;&gt;educations&lt;br&gt;&lt;/div&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;rounded=1;strokeWidth=2;perimeterSpacing=1;opacity=70;glass=0;swimlaneLine=1;shadow=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="10" y="403" width="140" height="270" as="geometry" />
